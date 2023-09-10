@@ -1,7 +1,28 @@
-![Scroll Guides](./assets/banner.png)
+## muli Scroll Project 09 Submission for Permissionless II Hackathon
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Scroll_ZKP?style=social)](https://twitter.com/Scroll_ZKP)
-[![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/scroll)
+## For Challenge: DEPLOY YOUR SMART CONTRACT ON SCROLL
+
+## Deployed Contract on Scroll Sepolia
+contract-deploy-demo
+
+## Contract Deployer
+0x0A0096756898518501b1fFfb0a8860A90fE62534
+
+## Smart Contract Address
+0x42978f079228015035F80EA653E526bDB51f6C66
+
+https://sepolia-blockscout.scroll.io/address/0x42978f079228015035F80EA653E526bDB51f6C66
+
+## Proof of Contract Deployer Ownership
+
+### Message
+muli Scroll Project 09 - Permissionless II
+
+### Signature Proof on Etherscan
+https://etherscan.io/verifySig/24614
+
+## Base Code is Forked from the Scroll Github Repo
+
 
 # Scroll Guides
 
@@ -9,16 +30,8 @@ The following guides are guidelines tailored to specific subjects. They serve as
 
 ## Getting Started
 
-### [contract-deploy-demo](https://github.com/scroll-tech/scroll-guides/tree/main/contract-deploy-demo)
+### [contract-deploy-demo](https://github.com/themuli/scroll-contract/tree/main/contract-deploy-demo)
+
+Deployed on Scroll Sepolia
 
 This project demonstrates how to use hardhat or foundry to deploy a contract in Scroll's rollup network. This project contains a simple contract that will lock a certain amount of Ether in the deployed contract for a specified amount of time.
-
-## Miscellaneous
-
-### [create2-demo](https://github.com/scroll-tech/scroll-guides/tree/main/create2-demo)
-
-This project demonstrates how to use the `create2` opcode and tests it across various networks.
-
-### [gas-estimation-demo](https://github.com/scroll-tech/scroll-guides/tree/main/gas-estimation-demo)
-
-This project demonstrates how to use estimate gas on Scroll
